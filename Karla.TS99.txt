@@ -1,0 +1,1 @@
+Git es un sistema de control de versiones. GitHub es una plataforma para alojar repositorios con Git.
